@@ -1,0 +1,698 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
+INJECTED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
+INJECTED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
+INJECTED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
+MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\6bea84576ab8e5be0522d268dc9e1071\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\543854a2ea1094546815d2d19129a6d6\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-cast-9.4.0.aar\071798924996a522fa115190266fc7db\AndroidManifest.xml:16:1-20:12
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-23.0.0.aar\41abd4a5b2c88913b169cbc76405bd4b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\e723b2e91d2c6240bdb89b9c4ce545ab\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\multidex-1.0.0.aar\845f5cffacf9e3553cf4cdb1705b5035\AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f51a39c2f9736de896af9f9466e147c1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-ads:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.4.0.aar\8c227e6f9bed7dea91901b5cba5f7685\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\cd149f1f4324c8f9f452ae8dfb31828d\AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.4.0.aar\cdfb6c95eb95c316128d698708c2278d\AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-tagmanager:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-9.4.0.aar\5f23bc6270ff4bafc119fbe72dbfffb7\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.4.0.aar\a003d29602d604c665a83967a5be7eb6\AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.4.0.aar\3d94d6226c5fc12bdb94d1d11ca109af\AndroidManifest.xml:16:1-31:12
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.4.0.aar\c38fe65eb7699c6f15da8cc122161cc5\AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.android.gms:play-services-auth-base:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-9.4.0.aar\c19498238e94a56c134bab8422764333\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-9.4.0.aar\95f45ba6b99dc7134319a5d8a86ede74\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.firebase:firebase-config:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-config-9.4.0.aar\fbe1cb6da09d76b83493dc75c9623c92\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-contextmanager-9.4.0.aar\0f0f6615e0135ceb4f8a967716207967\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.firebase:firebase-crash:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.4.0.aar\0500ad5a36ab92016d98311f4146ea2f\AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.android.gms:play-services-games:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-games-9.4.0.aar\d5dfd32f484801f703440b235bbdec0b\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-drive-9.4.0.aar\a8f51abb285a8878b178253d0173f1e9\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.firebase:firebase-auth:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-auth-9.4.0.aar\ef3c1fec15656a33e8ff5bc78e413ab8\AndroidManifest.xml:16:1-22:12
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-auth-common-9.4.0.aar\1595c4089377fa5946418a42a128fab3\AndroidManifest.xml:16:1-22:12
+MERGED from [com.google.firebase:firebase-auth-module:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-auth-module-9.4.0.aar\c4ece84cc18669872c06ec46d1aed0ff\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-database-9.4.0.aar\a4ca3cae353480c19dda515140b72165\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-connection:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-9.4.0.aar\a2b58b510533e5f724f763ed754259a5\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-storage-9.4.0.aar\cb05e8b50297341bec96c2ee851bc20b\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage-common:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-9.4.0.aar\1ac2b39446a5fb8a5dd2562119934a95\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-fitness-9.4.0.aar\ee51f891ca433750644b34dbee07380d\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.4.0.aar\22f152a02886bbdf85316d3324071822\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.4.0.aar\87bdc1e937bd022a59e981ababee8750\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-wallet:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-wallet-9.4.0.aar\c06f49e116951f1c0f71f1b76de358c2\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-identity-9.4.0.aar\6fc0ed01e3f19ae919dcfa2bb90e1bcd\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.4.0.aar\c9de098fd24fc4245bfe3cab68bbc12f\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-location:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-location-9.4.0.aar\f6c35caadeb335835be88a4c134b2f6d\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-places:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-places-9.4.0.aar\fb414686281a5f80fcfa08d7009d6ec0\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\d4a55b384fe1989a0d03aa865deeb407\AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-nearby-9.4.0.aar\e9f078875afce4ba28b7bf569335c6d0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-panorama-9.4.0.aar\1e2ddb13c3881bb69a22d0cb47144361\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-plus-9.4.0.aar\1c820f371d69bdf536ab59b0ca4610d3\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-9.4.0.aar\f3f7e7743697a6e0f4cda742e5a73a1d\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.4.0.aar\9a7a0171060d3e8661241af7b6f00bcd\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-wearable-9.4.0.aar\90bc2cc432a3cd31237035235a95005c\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\fad5999029903a15fb20b93c02792a15\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.4.0.aar\30da378a85ffcd30dc7f4505cc6e2af5\AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.4.0.aar\f71a57ee07baae1abb8c2a937ce17856\AndroidManifest.xml:16:1-39:12
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\998e66b2c643a838f7f78bb42566c8bc\AndroidManifest.xml:16:1-42:12
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.4.0.aar\2c92e57639db7066e70c799c5bc65b82\AndroidManifest.xml:16:1-42:12
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:16:1-60:12
+MERGED from [com.google.firebase:firebase-common:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-common-9.4.0.aar\031154d1a6af38671bcb567bb10bb1d2\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-gass-9.4.0.aar\19578510c330a6fab21c53d4fe0b82af\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\22efc40c8b7a983ad761921998eba3d4\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\2e5d29c83e3634a2e8b879bea28c1711\AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\c058c4f92ca9efc6a117c7ec2194450d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\35c9efe2261fc116fedbfec07de03da0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\d6aec725931401755c912a18515d433c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\352d5fc6677b7bf61604fabba751fda5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\e2f08e0d5c9efd8b1c031230e2aadab8\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\df29776a18943386b60a4836547e2725\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\cd7e55a4233fb3f7236bb4586d0ee42e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\e77ce5c493e0febf8c39fe810a71f8b6\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
+INJECTED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
+INJECTED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
+	package
+		ADDED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:10:5-32
+		INJECTED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
+		INJECTED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
+		INJECTED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:9:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\cd149f1f4324c8f9f452ae8dfb31828d\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\cd149f1f4324c8f9f452ae8dfb31828d\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.4.0.aar\cdfb6c95eb95c316128d698708c2278d\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.4.0.aar\cdfb6c95eb95c316128d698708c2278d\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.4.0.aar\a003d29602d604c665a83967a5be7eb6\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.4.0.aar\a003d29602d604c665a83967a5be7eb6\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.4.0.aar\3d94d6226c5fc12bdb94d1d11ca109af\AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.4.0.aar\3d94d6226c5fc12bdb94d1d11ca109af\AndroidManifest.xml:19:5-67
+MERGED from [com.google.firebase:firebase-crash:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.4.0.aar\0500ad5a36ab92016d98311f4146ea2f\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-crash:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.4.0.aar\0500ad5a36ab92016d98311f4146ea2f\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.4.0.aar\22f152a02886bbdf85316d3324071822\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.4.0.aar\22f152a02886bbdf85316d3324071822\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.4.0.aar\c9de098fd24fc4245bfe3cab68bbc12f\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.4.0.aar\c9de098fd24fc4245bfe3cab68bbc12f\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\d4a55b384fe1989a0d03aa865deeb407\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\d4a55b384fe1989a0d03aa865deeb407\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.4.0.aar\f71a57ee07baae1abb8c2a937ce17856\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.4.0.aar\f71a57ee07baae1abb8c2a937ce17856\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\998e66b2c643a838f7f78bb42566c8bc\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\998e66b2c643a838f7f78bb42566c8bc\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.4.0.aar\2c92e57639db7066e70c799c5bc65b82\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.4.0.aar\2c92e57639db7066e70c799c5bc65b82\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\cd149f1f4324c8f9f452ae8dfb31828d\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\cd149f1f4324c8f9f452ae8dfb31828d\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.4.0.aar\cdfb6c95eb95c316128d698708c2278d\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.4.0.aar\cdfb6c95eb95c316128d698708c2278d\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.4.0.aar\a003d29602d604c665a83967a5be7eb6\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.4.0.aar\a003d29602d604c665a83967a5be7eb6\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\d4a55b384fe1989a0d03aa865deeb407\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\d4a55b384fe1989a0d03aa865deeb407\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-nearby-9.4.0.aar\e9f078875afce4ba28b7bf569335c6d0\AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-nearby-9.4.0.aar\e9f078875afce4ba28b7bf569335c6d0\AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.4.0.aar\f71a57ee07baae1abb8c2a937ce17856\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.4.0.aar\f71a57ee07baae1abb8c2a937ce17856\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\998e66b2c643a838f7f78bb42566c8bc\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\998e66b2c643a838f7f78bb42566c8bc\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.4.0.aar\2c92e57639db7066e70c799c5bc65b82\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.4.0.aar\2c92e57639db7066e70c799c5bc65b82\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:20:5-79
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:14:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:15:22-76
+application
+ADDED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:17:5-34:19
+MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\6bea84576ab8e5be0522d268dc9e1071\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\6bea84576ab8e5be0522d268dc9e1071\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\543854a2ea1094546815d2d19129a6d6\AndroidManifest.xml:5:5-9:19
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\543854a2ea1094546815d2d19129a6d6\AndroidManifest.xml:5:5-9:19
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-cast-9.4.0.aar\071798924996a522fa115190266fc7db\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-cast-9.4.0.aar\071798924996a522fa115190266fc7db\AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-23.0.0.aar\41abd4a5b2c88913b169cbc76405bd4b\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-23.0.0.aar\41abd4a5b2c88913b169cbc76405bd4b\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\e723b2e91d2c6240bdb89b9c4ce545ab\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\e723b2e91d2c6240bdb89b9c4ce545ab\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f51a39c2f9736de896af9f9466e147c1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f51a39c2f9736de896af9f9466e147c1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\cd149f1f4324c8f9f452ae8dfb31828d\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\cd149f1f4324c8f9f452ae8dfb31828d\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.4.0.aar\cdfb6c95eb95c316128d698708c2278d\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.4.0.aar\cdfb6c95eb95c316128d698708c2278d\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.4.0.aar\a003d29602d604c665a83967a5be7eb6\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.4.0.aar\a003d29602d604c665a83967a5be7eb6\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.4.0.aar\3d94d6226c5fc12bdb94d1d11ca109af\AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.4.0.aar\3d94d6226c5fc12bdb94d1d11ca109af\AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.4.0.aar\c38fe65eb7699c6f15da8cc122161cc5\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.4.0.aar\c38fe65eb7699c6f15da8cc122161cc5\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-9.4.0.aar\95f45ba6b99dc7134319a5d8a86ede74\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-9.4.0.aar\95f45ba6b99dc7134319a5d8a86ede74\AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-config:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-config-9.4.0.aar\fbe1cb6da09d76b83493dc75c9623c92\AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-config:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-config-9.4.0.aar\fbe1cb6da09d76b83493dc75c9623c92\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-contextmanager-9.4.0.aar\0f0f6615e0135ceb4f8a967716207967\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-contextmanager-9.4.0.aar\0f0f6615e0135ceb4f8a967716207967\AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-crash:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.4.0.aar\0500ad5a36ab92016d98311f4146ea2f\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-crash:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.4.0.aar\0500ad5a36ab92016d98311f4146ea2f\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-games:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-games-9.4.0.aar\d5dfd32f484801f703440b235bbdec0b\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-games-9.4.0.aar\d5dfd32f484801f703440b235bbdec0b\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-drive-9.4.0.aar\a8f51abb285a8878b178253d0173f1e9\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-drive-9.4.0.aar\a8f51abb285a8878b178253d0173f1e9\AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-auth:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-auth-9.4.0.aar\ef3c1fec15656a33e8ff5bc78e413ab8\AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-auth-9.4.0.aar\ef3c1fec15656a33e8ff5bc78e413ab8\AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-auth-common-9.4.0.aar\1595c4089377fa5946418a42a128fab3\AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-auth-common-9.4.0.aar\1595c4089377fa5946418a42a128fab3\AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-fitness-9.4.0.aar\ee51f891ca433750644b34dbee07380d\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-fitness-9.4.0.aar\ee51f891ca433750644b34dbee07380d\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.4.0.aar\22f152a02886bbdf85316d3324071822\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.4.0.aar\22f152a02886bbdf85316d3324071822\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.4.0.aar\87bdc1e937bd022a59e981ababee8750\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.4.0.aar\87bdc1e937bd022a59e981ababee8750\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-identity-9.4.0.aar\6fc0ed01e3f19ae919dcfa2bb90e1bcd\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-identity-9.4.0.aar\6fc0ed01e3f19ae919dcfa2bb90e1bcd\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.4.0.aar\c9de098fd24fc4245bfe3cab68bbc12f\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.4.0.aar\c9de098fd24fc4245bfe3cab68bbc12f\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-location:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-location-9.4.0.aar\f6c35caadeb335835be88a4c134b2f6d\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-location-9.4.0.aar\f6c35caadeb335835be88a4c134b2f6d\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-places:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-places-9.4.0.aar\fb414686281a5f80fcfa08d7009d6ec0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-places:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-places-9.4.0.aar\fb414686281a5f80fcfa08d7009d6ec0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\d4a55b384fe1989a0d03aa865deeb407\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\d4a55b384fe1989a0d03aa865deeb407\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-nearby-9.4.0.aar\e9f078875afce4ba28b7bf569335c6d0\AndroidManifest.xml:6:5-20
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-nearby-9.4.0.aar\e9f078875afce4ba28b7bf569335c6d0\AndroidManifest.xml:6:5-20
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-panorama-9.4.0.aar\1e2ddb13c3881bb69a22d0cb47144361\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-panorama-9.4.0.aar\1e2ddb13c3881bb69a22d0cb47144361\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-plus-9.4.0.aar\1c820f371d69bdf536ab59b0ca4610d3\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-plus-9.4.0.aar\1c820f371d69bdf536ab59b0ca4610d3\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-9.4.0.aar\f3f7e7743697a6e0f4cda742e5a73a1d\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-9.4.0.aar\f3f7e7743697a6e0f4cda742e5a73a1d\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.4.0.aar\9a7a0171060d3e8661241af7b6f00bcd\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.4.0.aar\9a7a0171060d3e8661241af7b6f00bcd\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-wearable-9.4.0.aar\90bc2cc432a3cd31237035235a95005c\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-wearable-9.4.0.aar\90bc2cc432a3cd31237035235a95005c\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\fad5999029903a15fb20b93c02792a15\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\fad5999029903a15fb20b93c02792a15\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.4.0.aar\30da378a85ffcd30dc7f4505cc6e2af5\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.4.0.aar\30da378a85ffcd30dc7f4505cc6e2af5\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.4.0.aar\f71a57ee07baae1abb8c2a937ce17856\AndroidManifest.xml:24:5-38:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.4.0.aar\f71a57ee07baae1abb8c2a937ce17856\AndroidManifest.xml:24:5-38:19
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\998e66b2c643a838f7f78bb42566c8bc\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\998e66b2c643a838f7f78bb42566c8bc\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.4.0.aar\2c92e57639db7066e70c799c5bc65b82\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.4.0.aar\2c92e57639db7066e70c799c5bc65b82\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-common-9.4.0.aar\031154d1a6af38671bcb567bb10bb1d2\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.firebase:firebase-common:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-common-9.4.0.aar\031154d1a6af38671bcb567bb10bb1d2\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-gass-9.4.0.aar\19578510c330a6fab21c53d4fe0b82af\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-gass-9.4.0.aar\19578510c330a6fab21c53d4fe0b82af\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\22efc40c8b7a983ad761921998eba3d4\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\22efc40c8b7a983ad761921998eba3d4\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\2e5d29c83e3634a2e8b879bea28c1711\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\2e5d29c83e3634a2e8b879bea28c1711\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\c058c4f92ca9efc6a117c7ec2194450d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\c058c4f92ca9efc6a117c7ec2194450d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\35c9efe2261fc116fedbfec07de03da0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\35c9efe2261fc116fedbfec07de03da0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\d6aec725931401755c912a18515d433c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\d6aec725931401755c912a18515d433c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\352d5fc6677b7bf61604fabba751fda5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\352d5fc6677b7bf61604fabba751fda5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\e2f08e0d5c9efd8b1c031230e2aadab8\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\e2f08e0d5c9efd8b1c031230e2aadab8\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\df29776a18943386b60a4836547e2725\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\df29776a18943386b60a4836547e2725\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\cd7e55a4233fb3f7236bb4586d0ee42e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\cd7e55a4233fb3f7236bb4586d0ee42e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\e77ce5c493e0febf8c39fe810a71f8b6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\e77ce5c493e0febf8c39fe810a71f8b6\AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:22:9-40
+	android:name
+		ADDED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:18:9-43
+activity#com.parse.starter.MainActivity
+ADDED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:23:9-31:20
+	android:label
+		ADDED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:24:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:29:27-74
+activity#com.parse.starter.UsersActivity
+ADDED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:32:9-51
+	android:name
+		ADDED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:32:19-48
+activity#com.parse.starter.FeedActivity
+ADDED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:33:9-59
+	android:name
+		ADDED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml:33:19-47
+uses-sdk
+INJECTED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\6bea84576ab8e5be0522d268dc9e1071\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\6bea84576ab8e5be0522d268dc9e1071\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\543854a2ea1094546815d2d19129a6d6\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\543854a2ea1094546815d2d19129a6d6\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-cast-9.4.0.aar\071798924996a522fa115190266fc7db\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-cast-9.4.0.aar\071798924996a522fa115190266fc7db\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-23.0.0.aar\41abd4a5b2c88913b169cbc76405bd4b\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-23.0.0.aar\41abd4a5b2c88913b169cbc76405bd4b\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\e723b2e91d2c6240bdb89b9c4ce545ab\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\e723b2e91d2c6240bdb89b9c4ce545ab\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\multidex-1.0.0.aar\845f5cffacf9e3553cf4cdb1705b5035\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\multidex-1.0.0.aar\845f5cffacf9e3553cf4cdb1705b5035\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f51a39c2f9736de896af9f9466e147c1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f51a39c2f9736de896af9f9466e147c1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-ads:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.4.0.aar\8c227e6f9bed7dea91901b5cba5f7685\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.4.0.aar\8c227e6f9bed7dea91901b5cba5f7685\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\cd149f1f4324c8f9f452ae8dfb31828d\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\cd149f1f4324c8f9f452ae8dfb31828d\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.4.0.aar\cdfb6c95eb95c316128d698708c2278d\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.4.0.aar\cdfb6c95eb95c316128d698708c2278d\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-9.4.0.aar\5f23bc6270ff4bafc119fbe72dbfffb7\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-9.4.0.aar\5f23bc6270ff4bafc119fbe72dbfffb7\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.4.0.aar\a003d29602d604c665a83967a5be7eb6\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.4.0.aar\a003d29602d604c665a83967a5be7eb6\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.4.0.aar\3d94d6226c5fc12bdb94d1d11ca109af\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.4.0.aar\3d94d6226c5fc12bdb94d1d11ca109af\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.4.0.aar\c38fe65eb7699c6f15da8cc122161cc5\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.4.0.aar\c38fe65eb7699c6f15da8cc122161cc5\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-9.4.0.aar\c19498238e94a56c134bab8422764333\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-9.4.0.aar\c19498238e94a56c134bab8422764333\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-9.4.0.aar\95f45ba6b99dc7134319a5d8a86ede74\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-9.4.0.aar\95f45ba6b99dc7134319a5d8a86ede74\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-config:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-config-9.4.0.aar\fbe1cb6da09d76b83493dc75c9623c92\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-config:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-config-9.4.0.aar\fbe1cb6da09d76b83493dc75c9623c92\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-contextmanager-9.4.0.aar\0f0f6615e0135ceb4f8a967716207967\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-contextmanager-9.4.0.aar\0f0f6615e0135ceb4f8a967716207967\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-crash:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.4.0.aar\0500ad5a36ab92016d98311f4146ea2f\AndroidManifest.xml:22:5-42
+MERGED from [com.google.firebase:firebase-crash:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.4.0.aar\0500ad5a36ab92016d98311f4146ea2f\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-games:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-games-9.4.0.aar\d5dfd32f484801f703440b235bbdec0b\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-games-9.4.0.aar\d5dfd32f484801f703440b235bbdec0b\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-drive-9.4.0.aar\a8f51abb285a8878b178253d0173f1e9\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-drive-9.4.0.aar\a8f51abb285a8878b178253d0173f1e9\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-auth:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-auth-9.4.0.aar\ef3c1fec15656a33e8ff5bc78e413ab8\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-auth-9.4.0.aar\ef3c1fec15656a33e8ff5bc78e413ab8\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-auth-common-9.4.0.aar\1595c4089377fa5946418a42a128fab3\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-auth-common-9.4.0.aar\1595c4089377fa5946418a42a128fab3\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-auth-module-9.4.0.aar\c4ece84cc18669872c06ec46d1aed0ff\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-auth-module-9.4.0.aar\c4ece84cc18669872c06ec46d1aed0ff\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-database-9.4.0.aar\a4ca3cae353480c19dda515140b72165\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-database-9.4.0.aar\a4ca3cae353480c19dda515140b72165\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database-connection:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-9.4.0.aar\a2b58b510533e5f724f763ed754259a5\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database-connection:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-9.4.0.aar\a2b58b510533e5f724f763ed754259a5\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-storage-9.4.0.aar\cb05e8b50297341bec96c2ee851bc20b\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-storage-9.4.0.aar\cb05e8b50297341bec96c2ee851bc20b\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage-common:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-9.4.0.aar\1ac2b39446a5fb8a5dd2562119934a95\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage-common:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-9.4.0.aar\1ac2b39446a5fb8a5dd2562119934a95\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-fitness-9.4.0.aar\ee51f891ca433750644b34dbee07380d\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-fitness-9.4.0.aar\ee51f891ca433750644b34dbee07380d\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.4.0.aar\22f152a02886bbdf85316d3324071822\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.4.0.aar\22f152a02886bbdf85316d3324071822\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.4.0.aar\87bdc1e937bd022a59e981ababee8750\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.4.0.aar\87bdc1e937bd022a59e981ababee8750\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-wallet-9.4.0.aar\c06f49e116951f1c0f71f1b76de358c2\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-wallet-9.4.0.aar\c06f49e116951f1c0f71f1b76de358c2\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-identity-9.4.0.aar\6fc0ed01e3f19ae919dcfa2bb90e1bcd\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-identity-9.4.0.aar\6fc0ed01e3f19ae919dcfa2bb90e1bcd\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.4.0.aar\c9de098fd24fc4245bfe3cab68bbc12f\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.4.0.aar\c9de098fd24fc4245bfe3cab68bbc12f\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-location-9.4.0.aar\f6c35caadeb335835be88a4c134b2f6d\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-location-9.4.0.aar\f6c35caadeb335835be88a4c134b2f6d\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-places:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-places-9.4.0.aar\fb414686281a5f80fcfa08d7009d6ec0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-places:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-places-9.4.0.aar\fb414686281a5f80fcfa08d7009d6ec0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\d4a55b384fe1989a0d03aa865deeb407\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\d4a55b384fe1989a0d03aa865deeb407\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-nearby-9.4.0.aar\e9f078875afce4ba28b7bf569335c6d0\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-nearby-9.4.0.aar\e9f078875afce4ba28b7bf569335c6d0\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-panorama-9.4.0.aar\1e2ddb13c3881bb69a22d0cb47144361\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-panorama-9.4.0.aar\1e2ddb13c3881bb69a22d0cb47144361\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-plus-9.4.0.aar\1c820f371d69bdf536ab59b0ca4610d3\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-plus-9.4.0.aar\1c820f371d69bdf536ab59b0ca4610d3\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-9.4.0.aar\f3f7e7743697a6e0f4cda742e5a73a1d\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-9.4.0.aar\f3f7e7743697a6e0f4cda742e5a73a1d\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.4.0.aar\9a7a0171060d3e8661241af7b6f00bcd\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.4.0.aar\9a7a0171060d3e8661241af7b6f00bcd\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-wearable-9.4.0.aar\90bc2cc432a3cd31237035235a95005c\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-wearable-9.4.0.aar\90bc2cc432a3cd31237035235a95005c\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\fad5999029903a15fb20b93c02792a15\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\fad5999029903a15fb20b93c02792a15\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.4.0.aar\30da378a85ffcd30dc7f4505cc6e2af5\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.4.0.aar\30da378a85ffcd30dc7f4505cc6e2af5\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.4.0.aar\f71a57ee07baae1abb8c2a937ce17856\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.4.0.aar\f71a57ee07baae1abb8c2a937ce17856\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\998e66b2c643a838f7f78bb42566c8bc\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\998e66b2c643a838f7f78bb42566c8bc\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.4.0.aar\2c92e57639db7066e70c799c5bc65b82\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.4.0.aar\2c92e57639db7066e70c799c5bc65b82\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-common-9.4.0.aar\031154d1a6af38671bcb567bb10bb1d2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-common-9.4.0.aar\031154d1a6af38671bcb567bb10bb1d2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-gass-9.4.0.aar\19578510c330a6fab21c53d4fe0b82af\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-gass-9.4.0.aar\19578510c330a6fab21c53d4fe0b82af\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\22efc40c8b7a983ad761921998eba3d4\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\22efc40c8b7a983ad761921998eba3d4\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\2e5d29c83e3634a2e8b879bea28c1711\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\2e5d29c83e3634a2e8b879bea28c1711\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\c058c4f92ca9efc6a117c7ec2194450d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\c058c4f92ca9efc6a117c7ec2194450d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\35c9efe2261fc116fedbfec07de03da0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\35c9efe2261fc116fedbfec07de03da0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\d6aec725931401755c912a18515d433c\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\d6aec725931401755c912a18515d433c\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\352d5fc6677b7bf61604fabba751fda5\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\352d5fc6677b7bf61604fabba751fda5\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\e2f08e0d5c9efd8b1c031230e2aadab8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\e2f08e0d5c9efd8b1c031230e2aadab8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\df29776a18943386b60a4836547e2725\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\df29776a18943386b60a4836547e2725\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\cd7e55a4233fb3f7236bb4586d0ee42e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\cd7e55a4233fb3f7236bb4586d0ee42e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\e77ce5c493e0febf8c39fe810a71f8b6\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\e77ce5c493e0febf8c39fe810a71f8b6\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\e723b2e91d2c6240bdb89b9c4ce545ab\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Vatsal\Desktop\miniblogger\ParseStarterProject\src\main\AndroidManifest.xml
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\543854a2ea1094546815d2d19129a6d6\AndroidManifest.xml:6:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\543854a2ea1094546815d2d19129a6d6\AndroidManifest.xml:6:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\543854a2ea1094546815d2d19129a6d6\AndroidManifest.xml:7:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\543854a2ea1094546815d2d19129a6d6\AndroidManifest.xml:7:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\543854a2ea1094546815d2d19129a6d6\AndroidManifest.xml:8:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\543854a2ea1094546815d2d19129a6d6\AndroidManifest.xml:8:18-90
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\e723b2e91d2c6240bdb89b9c4ce545ab\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\c058c4f92ca9efc6a117c7ec2194450d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\c058c4f92ca9efc6a117c7ec2194450d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\35c9efe2261fc116fedbfec07de03da0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\35c9efe2261fc116fedbfec07de03da0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\d6aec725931401755c912a18515d433c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\d6aec725931401755c912a18515d433c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\352d5fc6677b7bf61604fabba751fda5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\352d5fc6677b7bf61604fabba751fda5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\e2f08e0d5c9efd8b1c031230e2aadab8\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\e2f08e0d5c9efd8b1c031230e2aadab8\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\df29776a18943386b60a4836547e2725\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\df29776a18943386b60a4836547e2725\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\cd7e55a4233fb3f7236bb4586d0ee42e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\cd7e55a4233fb3f7236bb4586d0ee42e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\e77ce5c493e0febf8c39fe810a71f8b6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\e77ce5c493e0febf8c39fe810a71f8b6\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\e723b2e91d2c6240bdb89b9c4ce545ab\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\e723b2e91d2c6240bdb89b9c4ce545ab\AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\cd149f1f4324c8f9f452ae8dfb31828d\AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\cd149f1f4324c8f9f452ae8dfb31828d\AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\cd149f1f4324c8f9f452ae8dfb31828d\AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\cd149f1f4324c8f9f452ae8dfb31828d\AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\cd149f1f4324c8f9f452ae8dfb31828d\AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\cd149f1f4324c8f9f452ae8dfb31828d\AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\cd149f1f4324c8f9f452ae8dfb31828d\AndroidManifest.xml:30:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.4.0.aar\cdfb6c95eb95c316128d698708c2278d\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.4.0.aar\a003d29602d604c665a83967a5be7eb6\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.4.0.aar\a003d29602d604c665a83967a5be7eb6\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\998e66b2c643a838f7f78bb42566c8bc\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\998e66b2c643a838f7f78bb42566c8bc\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.4.0.aar\2c92e57639db7066e70c799c5bc65b82\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.4.0.aar\2c92e57639db7066e70c799c5bc65b82\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:22:5-68
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.4.0.aar\cdfb6c95eb95c316128d698708c2278d\AndroidManifest.xml:25:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.4.0.aar\3d94d6226c5fc12bdb94d1d11ca109af\AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.4.0.aar\3d94d6226c5fc12bdb94d1d11ca109af\AndroidManifest.xml:23:17-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.4.0.aar\3d94d6226c5fc12bdb94d1d11ca109af\AndroidManifest.xml:24:17-63
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.4.0.aar\3d94d6226c5fc12bdb94d1d11ca109af\AndroidManifest.xml:22:17-48
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.4.0.aar\3d94d6226c5fc12bdb94d1d11ca109af\AndroidManifest.xml:25:13-28:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.4.0.aar\3d94d6226c5fc12bdb94d1d11ca109af\AndroidManifest.xml:26:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.4.0.aar\3d94d6226c5fc12bdb94d1d11ca109af\AndroidManifest.xml:26:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.4.0.aar\3d94d6226c5fc12bdb94d1d11ca109af\AndroidManifest.xml:27:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.4.0.aar\3d94d6226c5fc12bdb94d1d11ca109af\AndroidManifest.xml:27:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.4.0.aar\c38fe65eb7699c6f15da8cc122161cc5\AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.4.0.aar\c38fe65eb7699c6f15da8cc122161cc5\AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.4.0.aar\c38fe65eb7699c6f15da8cc122161cc5\AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.4.0.aar\c38fe65eb7699c6f15da8cc122161cc5\AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.4.0.aar\c38fe65eb7699c6f15da8cc122161cc5\AndroidManifest.xml:21:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.4.0.aar\c38fe65eb7699c6f15da8cc122161cc5\AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.4.0.aar\c38fe65eb7699c6f15da8cc122161cc5\AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.4.0.aar\c38fe65eb7699c6f15da8cc122161cc5\AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.4.0.aar\c38fe65eb7699c6f15da8cc122161cc5\AndroidManifest.xml:29:13-58
+service#com.google.firebase.crash.internal.service.FirebaseCrashReceiverService
+ADDED from [com.google.firebase:firebase-crash:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.4.0.aar\0500ad5a36ab92016d98311f4146ea2f\AndroidManifest.xml:26:9-27:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.4.0.aar\0500ad5a36ab92016d98311f4146ea2f\AndroidManifest.xml:27:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.4.0.aar\0500ad5a36ab92016d98311f4146ea2f\AndroidManifest.xml:26:18-79
+service#com.google.firebase.crash.internal.service.FirebaseCrashSenderService
+ADDED from [com.google.firebase:firebase-crash:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.4.0.aar\0500ad5a36ab92016d98311f4146ea2f\AndroidManifest.xml:29:9-30:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.4.0.aar\0500ad5a36ab92016d98311f4146ea2f\AndroidManifest.xml:30:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.4.0.aar\0500ad5a36ab92016d98311f4146ea2f\AndroidManifest.xml:29:18-77
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.4.0.aar\22f152a02886bbdf85316d3324071822\AndroidManifest.xml:21:5-82
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.4.0.aar\c9de098fd24fc4245bfe3cab68bbc12f\AndroidManifest.xml:21:5-82
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.4.0.aar\c9de098fd24fc4245bfe3cab68bbc12f\AndroidManifest.xml:21:5-82
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.4.0.aar\22f152a02886bbdf85316d3324071822\AndroidManifest.xml:21:22-79
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\d4a55b384fe1989a0d03aa865deeb407\AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\d4a55b384fe1989a0d03aa865deeb407\AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\d4a55b384fe1989a0d03aa865deeb407\AndroidManifest.xml:24:8-31
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\fad5999029903a15fb20b93c02792a15\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\fad5999029903a15fb20b93c02792a15\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\fad5999029903a15fb20b93c02792a15\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\fad5999029903a15fb20b93c02792a15\AndroidManifest.xml:20:19-85
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.4.0.aar\30da378a85ffcd30dc7f4505cc6e2af5\AndroidManifest.xml:24:9-30:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.4.0.aar\30da378a85ffcd30dc7f4505cc6e2af5\AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.4.0.aar\30da378a85ffcd30dc7f4505cc6e2af5\AndroidManifest.xml:25:13-82
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.4.0.aar\30da378a85ffcd30dc7f4505cc6e2af5\AndroidManifest.xml:27:13-29:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.4.0.aar\30da378a85ffcd30dc7f4505cc6e2af5\AndroidManifest.xml:27:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.4.0.aar\30da378a85ffcd30dc7f4505cc6e2af5\AndroidManifest.xml:28:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.4.0.aar\30da378a85ffcd30dc7f4505cc6e2af5\AndroidManifest.xml:28:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.4.0.aar\f71a57ee07baae1abb8c2a937ce17856\AndroidManifest.xml:25:9-27:42
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.4.0.aar\f71a57ee07baae1abb8c2a937ce17856\AndroidManifest.xml:27:17-39
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.4.0.aar\f71a57ee07baae1abb8c2a937ce17856\AndroidManifest.xml:26:17-41
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.4.0.aar\f71a57ee07baae1abb8c2a937ce17856\AndroidManifest.xml:25:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.4.0.aar\f71a57ee07baae1abb8c2a937ce17856\AndroidManifest.xml:28:9-37:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.4.0.aar\f71a57ee07baae1abb8c2a937ce17856\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.4.0.aar\f71a57ee07baae1abb8c2a937ce17856\AndroidManifest.xml:29:13-87
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.4.0.aar\f71a57ee07baae1abb8c2a937ce17856\AndroidManifest.xml:31:13-36:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.4.0.aar\f71a57ee07baae1abb8c2a937ce17856\AndroidManifest.xml:32:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.4.0.aar\f71a57ee07baae1abb8c2a937ce17856\AndroidManifest.xml:32:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.4.0.aar\f71a57ee07baae1abb8c2a937ce17856\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.4.0.aar\f71a57ee07baae1abb8c2a937ce17856\AndroidManifest.xml:33:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.4.0.aar\f71a57ee07baae1abb8c2a937ce17856\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.4.0.aar\f71a57ee07baae1abb8c2a937ce17856\AndroidManifest.xml:35:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\998e66b2c643a838f7f78bb42566c8bc\AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.4.0.aar\2c92e57639db7066e70c799c5bc65b82\AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.4.0.aar\2c92e57639db7066e70c799c5bc65b82\AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\998e66b2c643a838f7f78bb42566c8bc\AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\998e66b2c643a838f7f78bb42566c8bc\AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\998e66b2c643a838f7f78bb42566c8bc\AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\998e66b2c643a838f7f78bb42566c8bc\AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\998e66b2c643a838f7f78bb42566c8bc\AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\998e66b2c643a838f7f78bb42566c8bc\AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.4.0.aar\2c92e57639db7066e70c799c5bc65b82\AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.4.0.aar\2c92e57639db7066e70c799c5bc65b82\AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\998e66b2c643a838f7f78bb42566c8bc\AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\998e66b2c643a838f7f78bb42566c8bc\AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\998e66b2c643a838f7f78bb42566c8bc\AndroidManifest.xml:37:11-82
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:25:17-71
+permission#com.parse.starter.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:28:22-76
+uses-permission#com.parse.starter.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:36:13-40:29
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION+com.parse.starter
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:39:27-58
+category#com.parse.starter
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:52:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\08a727030ba9d481147438fae074082b\AndroidManifest.xml:55:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-common-9.4.0.aar\031154d1a6af38671bcb567bb10bb1d2\AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-common-9.4.0.aar\031154d1a6af38671bcb567bb10bb1d2\AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-common-9.4.0.aar\031154d1a6af38671bcb567bb10bb1d2\AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-common-9.4.0.aar\031154d1a6af38671bcb567bb10bb1d2\AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\firebase-common-9.4.0.aar\031154d1a6af38671bcb567bb10bb1d2\AndroidManifest.xml:9:13-58
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\2e5d29c83e3634a2e8b879bea28c1711\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\2e5d29c83e3634a2e8b879bea28c1711\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Vatsal\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\2e5d29c83e3634a2e8b879bea28c1711\AndroidManifest.xml:22:13-58

@@ -1,0 +1,7 @@
+#Mon Jun 08 15:29:01 IST 2020
+base.0=C\:\\Users\\Vatsal\\Desktop\\miniblogger\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Vatsal\\Desktop\\miniblogger\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+base.1=C\:\\Users\\Vatsal\\Desktop\\miniblogger\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+file.0=C\:\\Users\\Vatsal\\Desktop\\miniblogger\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes2.dex
